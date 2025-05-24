@@ -37,5 +37,6 @@ O uso da planilha construída em excel auxilia o usuário na tomada de decisões
 ![App Screenshot](https://github.com/devkauegomes/simulador_investimentos_excel/blob/8591701f69a0658d2c2e255de5ea54b1405360b8/assets/img/print-cen%C3%A1rios.png)
 
 ### Perfil
-#### Três perfis de inestimento: Conservador, moderado e agressivo. Mudar a opcção de perfil altera as porcentagens de valor sugerido para o investimento. 
+#### Três perfis de inestimento: Conservador, moderado e agressivo. Mudar a opcção de perfil altera as porcentagens de valor sugerido para o investimento. No excel, foi feito uma chave composta para cada tipo de fundo imobiliário, após isso foi utilizado o PROCV em uma tabela aramzenada em outra guia para buscar o valor correspondente quanto a porcentagem sugerida no investimento.
 ![App Screenshot](https://github.com/devkauegomes/simulador_investimentos_excel/blob/8591701f69a0658d2c2e255de5ea54b1405360b8/assets/img/print-perfil.png)
+ 
