@@ -3,7 +3,7 @@
 
 InvestFII é uma plataforma prática construída no Excel com o objetivo de fornecer uma forma simples de simular investimentos em fundos imobiliários.
 
-![Logo](<img src="/assets/img/Imagem1.png">)
+![Logo](https://github.com/devkauegomes/simulador_investimentos_excel/blob/8591701f69a0658d2c2e255de5ea54b1405360b8/assets/img/banner.png)
 
 
 ## Características
@@ -30,5 +30,12 @@ O uso da planilha construída em excel auxilia o usuário na tomada de decisões
 ## Demonstração 
 ### Início
 #### Os campos em verde são alteráveis, fazendo com que os outros campos se adaptem de acordo o valor.
-![App Screenshot]()
+![App Screenshot](https://github.com/devkauegomes/simulador_investimentos_excel/blob/8591701f69a0658d2c2e255de5ea54b1405360b8/assets/img/print-1.png)
 
+### Cenários
+#### Vários cenários predefinidos que se adpatam de acordo com os valores inseridos nas configurações.
+![App Screenshot](https://github.com/devkauegomes/simulador_investimentos_excel/blob/8591701f69a0658d2c2e255de5ea54b1405360b8/assets/img/print-cen%C3%A1rios.png)
+
+### Perfil
+#### Três perfis de inestimento: Conservador, moderado e agressivo. Mudar a opcção de perfil altera as porcentagens de valor sugerido para o investimento. 
+![App Screenshot](https://github.com/devkauegomes/simulador_investimentos_excel/blob/8591701f69a0658d2c2e255de5ea54b1405360b8/assets/img/print-perfil.png)
